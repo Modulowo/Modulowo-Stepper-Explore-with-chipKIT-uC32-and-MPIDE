@@ -1,5 +1,5 @@
 # Modulowo Stepper Explore example for MPIDE
-
+<img class="alignnone wp-image-909" src="http://academy.modulowo.com/wp-content/uploads/sites/2/2016/04/DSC_0932_01.jpg" alt="DSC_0932_01" width="400" height="385" />
 #Hardware
 
 <ul>
@@ -10,7 +10,7 @@
 
 #Software
 <ul>
-	<li><a href="http://chipkit.net/">MPIDE</a>.</li>
+	<li><a href="http://chipkit.net/">MPIDE</a></li>
 </ul>
 
 #Content
