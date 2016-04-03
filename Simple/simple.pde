@@ -1,6 +1,6 @@
 /******************************************** 
  
- [Tutorial] Modulowo Stepper Explore driver and chipKIT uC32 for MPIDE
+ Modulowo Stepper Explore driver and chipKIT uC32 for MPIDE
 
  Designed by Modułowo http://modulowo.com for
  
