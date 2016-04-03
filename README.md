@@ -6,7 +6,6 @@
 	<li><a href="https://store.modulowo.com/en_GB/p/Stepper-Explore/395">Modulowo Stepper Explore driver</a></li>
 	<li><a href="https://store.modulowo.com/pl/p/Modulowo-Explore-A-dla-Arduino-Genuino/399">Modulowo Explore A (adapter for Arduino/Genuino)</a></li>
 	<li><a title="chipKIT uC32 Development Board" href="http://www.microchip.com/DevelopmentTools/ProductDetails.aspx?PartNO=TDGL017">chipKIT uC32 Development Board</a></li>
-	<li><a href="http://chipkit.net/">software - MPIDE</a>.</li>
 </ul>
 
 #Software
@@ -21,6 +20,6 @@
 
 #License 
 
-This software is released under Creative Commons ShareAlike 4.0 International. Distributed as-is; no warranty is given. 
+This software is released under Creative Commons ShareAlike 4.0 International. Distributed as-is. No warranty. 
 
 Designed by Modulowo http://modulowo.com/
